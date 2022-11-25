@@ -6,7 +6,7 @@
 
 Example:
 
-`outside.py` calls a function from `db_interface`. This doesn't work. 
+`outside.py` calls get_patient() function from `db_interface`. This doesn't work. 
 
 How to run:
 
